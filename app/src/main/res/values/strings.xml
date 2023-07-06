@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">EVALUACIÒN 02</string>
+    <string name="titulo">LOGIN</string>
+    <string name="usua">ingrese usuario</string>
+    <string name="cla">ingrese clave</string>
+    <string name="btn">Iniciar sesion</string>
+
+    //menu
+    <string name="btnm">EJERCICIO 3</string>
+    <string name="btnm2">EJERCICIO 4</string>
+
+    //operaciones
+    <string name="a1">ingresa numero</string>
+    <string name="a2">ingrese numero</string>
+
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_mapa">Mapa</string>
+
+</resources>
